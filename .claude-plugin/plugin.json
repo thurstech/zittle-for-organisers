@@ -6,6 +6,9 @@
   "author": { "name": "Zittle", "url": "https://zittle.in" },
   "homepage": "https://zittle.in/docs/running-events/ai-assistant-for-organisers/",
   "repository": "https://github.com/thurstech/zittle-for-organisers",
+  "documentationUrl": "https://zittle.in/docs/running-events/ai-assistant-for-organisers/",
+  "supportUrl": "https://zittle.in/#contact-us",
   "privacyPolicyUrl": "https://zittle.in/privacy-policy",
+  "termsOfServiceUrl": "https://zittle.in/terms-conditions",
   "license": "MIT"
 }

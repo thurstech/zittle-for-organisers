@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zittle-for-organisers": {
+      "type": "http",
+      "url": "https://zittle.in/api/business-mcp"
+    }
+  }
+}

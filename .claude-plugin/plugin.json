@@ -1,0 +1,10 @@
+{
+  "name": "zittle-for-organisers",
+  "displayName": "Zittle for Organisers",
+  "version": "0.1.0",
+  "description": "Run your Zittle events and workshops from Claude: set up your business and booking website, create events, add sessions, change prices and seats, and check bookings, sales and enquiries, with every change previewed and confirmed first.",
+  "author": { "name": "Zittle", "url": "https://zittle.in" },
+  "homepage": "https://zittle.in/docs/running-events/ai-assistant-for-organisers/",
+  "repository": "https://github.com/thurstech/zittle-for-organisers",
+  "license": "MIT"
+}
